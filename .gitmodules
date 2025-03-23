@@ -1,0 +1,9 @@
+[submodule "forkCore"]
+	path = forkCore
+	url = https://github.com/Aggyx/QubicCore.git
+[submodule "hm25-front"]
+	path = hm25-front
+	url = https://github.com/icyblob/hm25-frontend.git
+[submodule "qubic-LINKCode-examples-consumer"]
+	path = qubic-LINKCode-examples-consumer
+	url = https://github.com/LINCKODE/qubic-madrid-code-examples.git
